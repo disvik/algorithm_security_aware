@@ -1,0 +1,2 @@
+nodes,time_steps,change_ratio,deterioration_probability,max_non_compliant_ratio_threshold,total_changed_nodes,steps_with_unsafe_clusters,steps_reconfigured,total_reconfigurations,total_moved_nodes,mean_moved_nodes_per_reconfiguration,mean_max_concentration_before,mean_max_concentration_after
+100,100,0.1,0.75,0.2,526,100,100,100,8241,82.41,0.7041804861804861,0.6299164169164169

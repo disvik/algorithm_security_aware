@@ -1,0 +1,3 @@
+method,nodes,clusters,non_compliant_total,clusters_with_non_compliant,max_non_compliant_concentration,average_non_compliant_per_cluster
+Baseline,100,10,10,6,0.2727272727272727,1.0
+Security-Aware,100,10,10,10,0.1111111111111111,1.0
